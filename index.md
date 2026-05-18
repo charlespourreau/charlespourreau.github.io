@@ -4,4 +4,6 @@ title: Accueil
 author_profile: true
 ---
 
-Bienvenue sur mon blog
+Je partage ici mes réflexions sur la transformation des entreprises à l'ère de l'intelligence artificielle, avec un seul objectif : aider les dirigeants à dépasser les effets de mode et poser les bonnes questions stratégiques.
+
+**Ne laissez pas l'IA aux techniciens : c'est un sujet de stratégie d'entreprise.**
