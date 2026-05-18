@@ -1,4 +1,27 @@
 title: "Charles Pourreau"
 description: "Business strategy in the AI era"
-theme: minima
-author: "Charles Pourreau"
+url: "https://charlespourreau.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: "default"
+
+author:
+  name: "Charles Pourreau"
+  bio: "Business strategy in the AI era"
+  location: "France"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
