@@ -4,6 +4,9 @@ url: "https://charlespourreau.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes"
 
+include:
+  - _pages
+
 plugins:
   - jekyll-include-cache
 
