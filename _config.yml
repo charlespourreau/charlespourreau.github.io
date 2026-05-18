@@ -14,13 +14,6 @@ author:
   bio: "Stratégie d'entreprise à l'ère de l'IA"
   location: "France"
 
-# Menu de navigation
-nav:
-  - name: "Accueil"
-    url: /
-  - name: "À propos"
-    url: /about/
-
 defaults:
   - scope:
       path: ""
