@@ -11,17 +11,17 @@ permalink: /publications/se-projeter-dans-l-apres/
 
 Durant ce contexte si particulier, Charles Pourreau, Professeur à Montpellier Business School, revient dans 9 épisodes pour apprendre à répondre et anticiper les enjeux de demain.
 
-### Le contexte
+### L'intervention
+
+<figure style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 2em 0;">
+  <iframe src="https://www.youtube.com/embed/3RWVsMqJzYc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen title="Charles POURREAU – Se projeter dans l'après"></iframe>
+</figure>
+
+### Contexte
 
 La crise sanitaire de 2020 impose une rupture fondamentale dans nos modèles économiques. Se projeter dans l'après, c'est avant tout construire des scénarios de reprise réalistes et identifier les enjeux spécifiques à chaque entreprise.
 
 **Comment adapter notre modèle économique à un environnement transformé ? Comment reconstruire collectivement notre vision ?**
-
-### L'épisode en vidéo
-
-Découvrez l'intervention complète de Charles Pourreau sur la chaîne YouTube de Montpellier Business School :
-
-> 🎥 **Regarder l'episode sur [YouTube](https://www.mbs-education.com/?post_type=video&p=5490)**
 
 ### À propos de l'auteur
 
@@ -29,4 +29,4 @@ Charles Pourreau est Professeur à Montpellier Business School et Directeur Asso
 
 ---
 
-*Article publié initialement le 28 avril 2020 sur [MBS Education](https://www.mbs-education.com/?post_type=video&p=5490)*
+*Intervention vidéo publiée initialement le 28 avril 2020 sur [MBS Education](https://www.mbs-education.com/?post_type=video&p=5490)*
