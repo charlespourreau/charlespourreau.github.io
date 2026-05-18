@@ -15,6 +15,13 @@ author:
   location: "France"
   avatar: ""
 
+# Menu de navigation
+nav:
+  - name: "Accueil"
+    url: /
+  - name: "À propos"
+    url: /about/
+
 defaults:
   - scope:
       path: ""
