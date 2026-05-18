@@ -14,6 +14,11 @@ author:
   avatar: "/assets/images/portrait_carre.jpg"
   bio: "Stratégie d'entreprise à l'ère de l'IA"
   location: "France"
+  links:
+    - label: "LinkedIn"
+      url: "https://fr.linkedin.com/in/charles-pourreau-30015940"
+    - label: "GitHub"
+      url: "https://github.com/charlespourreau"
 
 defaults:
   - scope:
