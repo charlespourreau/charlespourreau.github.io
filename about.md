@@ -4,7 +4,7 @@ title: "À propos"
 permalink: /about/
 ---
 
-Je suis Charles Pourreau, entrepreneur, consultant en stratégie et finance, enseignant à Montpellier Business School, et praticien de l’IA appliquée aux PME.
+Je suis Charles Pourreau, entrepreneur, consultant en stratégie et finance, professeur affilié à Montpellier Business School, et praticien de l’IA appliquée aux PME.
 
 Mon parcours est à la croisée de l’entrepreneuriat, du conseil et de la technologie. À 25 ans, je crée avec deux associés ma première entreprise, une PME industrielle spécialisée dans la production de pièces à forte valeur ajoutée, qui sera ensuite revendue à un groupe britannique dont j’intègre le board.
 
