@@ -2,7 +2,7 @@
 layout: single
 title: "Se projeter dans l'après : imaginer un scénario de reprise et identifier les enjeux"
 date: 2020-04-28
-categories: publications
+categories: [publications]
 tags: [pme, stratégie, reprise-entreprise]
 permalink: /publications/se-projeter-dans-l-apres/
 ---

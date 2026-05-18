@@ -2,8 +2,8 @@
 layout: single
 title: "IA prédictive, IA générative, IA agentique : trois âges de l’intelligence artificielle pour les PME"
 date: 2026-05-18
-categories: stratégie
-tags: ia-predictive, ia-generative, ia-agentique, pme
+categories: [stratégie]
+tags: [ia-predictive, ia-generative, ia-agentique, pme]
 permalink: /publications/les-3-ages-de-l-ia-pour-les-pme/
 ---
 

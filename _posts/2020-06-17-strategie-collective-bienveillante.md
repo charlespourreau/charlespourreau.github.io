@@ -2,7 +2,7 @@
 layout: single
 title: "Pourquoi la bonne stratégie de reprise sera collective et bienveillante"
 date: 2020-06-17
-categories: publications
+categories: [publications]
 tags: [stratégie, management, performance]
 permalink: /publications/strategie-collective-bienveillante/
 ---
