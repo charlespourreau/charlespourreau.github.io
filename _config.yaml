@@ -1,4 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes                                                                                        │
-         title: Mon Super Blog                                                                                                           │
-         description: Bienvenue sur mon blog                                                                                  │
-         url: https://charlespourreau.github.io
+title: "Charles Pourreau"
+description: "Notes, réflexions et retours d'expérience"
+theme: minima
+author: "Charles Pourreau"
