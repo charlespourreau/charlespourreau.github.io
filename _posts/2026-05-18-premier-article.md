@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Premier article"
 date: 2026-05-18
 categories: 
