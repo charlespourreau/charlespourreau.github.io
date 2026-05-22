@@ -1,0 +1,53 @@
+---
+layout: default
+---
+{% capture page_title %}{{ page.title }}{% endcapture %}
+{% if page.title == site.title %}
+  {% capture page_title %}{{ site.title }} - {{ page.title }}{% endcapture %}
+{% endif %}
+
+<article class="page" id="{{ page.id }}">
+  <div class="wrapper">
+    <header class="post-header">
+      <h1 class="post-title">
+        <span>{{ page_title }}</span>
+      </h1>
+      
+      <div class="post-meta">
+        {% if page.categories.size > 0 %}
+          <span class="category-link">
+            <strong>Catégories:</strong> 
+            {% for category in page.categories %}
+              <a href="{{ '/categories/' | append: category | relative_url }}">{{ category }}</a>{% if forloop.last == false %}, {% endif %}
+            {% endfor %}
+          </span>
+        {% endif %}
+
+        {% if page.tags.size > 0 %}
+          <span class="tag-link" style="margin-left: 15px;">
+            <strong>Tags:</strong> 
+            {% for tag in page.tags %}
+              <a href="{{ '/tags/' | append: tag | relative_url }}">{{ tag }}</a>{% if forloop.last == false %}, {% endif %}
+            {% endfor %}
+          </span>
+        {% endif %}
+      </div>
+
+      {% if page.date %}
+        <p class="meta">
+          <span class="page-calendar">
+            {% assign date = page.date | date: "%Y-%m-%d" %}
+            {{ date }}
+          </span>
+          {% if page.author %}
+            <span class="page-author">Par {{ page.author }}</span>
+          {% endif %}
+        </p>
+      {% endif %}
+    </header>
+
+    <div class="post-content">
+      {{ content }}
+    </div>
+  </div>
+</article>
